@@ -28,6 +28,12 @@ My professional background also includes environmental regulatory engineering, t
 
 ## Research Projects
 
+### [Microkinetic Modeling — Julia](https://github.com/zacharycevans/MKM__JULIA__v1)
+
+Microkinetic modeling software developed for my PhD research in heterogeneous catalysis. The implementation incorporates coverage-dependent adsorption energetics, polyharmonic-spline interpolation, arbitrary-precision numerical calculations, and sensitivity analysis using automatic differentiation.
+
+**Development status:** Original research implementation complete; modernization and refactoring planned to improve modularity, readability, documentation, and maintainability.
+
 ### Machine Learning for Adsorption Energetics
 *In development*
 
